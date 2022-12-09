@@ -1,0 +1,54 @@
+body {
+  position: relative;
+  margin: 0;
+}
+
+.bolsasangre{
+	border-radius: 100px;
+	width: 200px;
+	height: 200px;
+}
+
+.creuroja{
+	border-radius: 8px;
+}
+
+.puedodonar{
+	border-radius: 100px;
+	width: 200px;
+	height: 200px;
+}
+
+.ubicacion{
+	border-radius: 100px;
+	width: 200px;
+	height: 200px;
+}
+
+b{
+	font-family:Arial;
+	font-size: 20px;
+	
+}
+.col{
+
+	text-align: justify; 
+	float: left;
+}
+
+
+.analisis{
+	transition: width 2s;
+}
+
+.analisis:hover{
+	width: 400px;
+	height: 250px;
+}
+
+.bolsasangre{
+	border-radius: 100px;
+	width: 200px;
+	height: 200px;
+	background-color: black; 
+}

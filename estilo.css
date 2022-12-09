@@ -1,0 +1,177 @@
+body {
+	margin: 0;
+}
+
+.pagina {
+	background-color: #e6e6e6;
+}
+
+.formulario {
+	text-align: center;
+	margin: auto;
+	width: 55%;
+	padding: 30px;
+	border-radius: 15px;
+	font-size: 20px;
+	box-shadow: 2px 3px 20px #574e4e;
+	font-family: "Helvetica Neue", sans-serif;
+}
+
+.form {
+	width: 100%;
+	margin: auto;
+	padding: 5px;
+	border-radius: 4px;
+	margin-bottom: 5px;
+	border: 1px solid #e01236;
+	font-size: 15px;
+	box-shadow: 1px 1px 3px #e01236;
+
+}
+
+.h2 {
+	width: 50%;
+	margin: auto;
+	padding-top: 20px;
+	margin-bottom: 20px;
+	text-align:center;
+	font-size: 30px;
+	text-decoration: underline red 2px;
+	font-family: "Helvetica Neue", sans-serif;
+
+}
+
+
+.container {
+		width: 965px;
+		background: none;
+		margin: auto;
+		border-radius: 25px;
+}
+.top {
+	margin-top: 0px ;
+}
+.menu {
+	float: right;
+}
+.menu li {
+	display: inline-block;
+}
+.menu a {
+	color: black;
+	text-decoration: none;
+	padding: 20px;
+}
+
+.header {
+	font-family: "MontserratBold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.header a:hover {
+	background: red;
+}
+
+.enviar {
+	padding: 5px 5px;
+	margin: auto;
+	background-color: #f44336;
+  	border: none;
+  	color: white;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	cursor: pointer;
+}
+
+.footer{
+	width: 100%;
+	overflow: hidden;
+	font-family: "MontserratBold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+.footer a {
+	color: black;
+	text-decoration: none;
+	font-size: 15px;
+}
+
+.footer a:hover {
+	background: red;
+}
+
+.footer span {
+	margin: auto;
+	float: left;
+	margin-top: 40px;
+}
+
+.tlf {
+	text-align: center;
+	margin: auto;
+	width: 55%;
+	padding: 30px;
+	border-radius: 6px;
+	font-size: 20px;
+
+}
+
+.tlf a {
+	color: #B52025;
+}
+
+.oficinas {
+	text-align: center;
+	margin: auto;
+	width: 100%;
+	font-family: "Helvetica Neue", sans-serif;
+}
+
+.ubicacion {
+	padding: 10px;
+	margin: 0;
+	text-align: center;
+}
+
+.a {
+	background-color: lightgrey;
+}
+
+.oficina {
+	float: left;
+	width: 605px;
+	display: inline-block; 
+	vertical-align: top;
+	padding-left: 100px;
+	padding-right: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: left;
+}
+
+.oficina p {
+	font-size: 13px;
+}
+
+.mapa {
+	text-align: left;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.mapa p {
+	font-size: 13px;
+}
+
+.titulo {
+	text-decoration: underline red 2px;
+}
+
+.final{
+	padding: 20px;
+	background: none;
+	text-align: center;
+			
+	}

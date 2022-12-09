@@ -1,0 +1,38 @@
+video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 105%;
+  min-height: 100%;
+  transform: translateX(calc((100% - 100vw) / 2));
+  z-index: -2;
+}
+
+body {
+  position: relative;
+  margin: 0;
+}
+
+.bolsasangre{
+	border-radius: 100px;
+	width: 200px;
+	height: 200px;
+}
+
+.creuroja{
+	border-radius: 8px;
+}
+
+.puedodonar{
+	border-radius: 100px;
+	width: 200px;
+	height: 200px;
+}
+
+.ubicacion{
+	border-radius: 100px;
+	width: 200px;
+	height: 200px;
+}
+
+
